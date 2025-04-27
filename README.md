@@ -15,5 +15,3 @@ The following is the Commands for the needs packages npm install discord.js
   type the message and then the channel of your choice
 
   Credits to itzrxr And monkmatt
-
-Follow my yt if you want [my socials](https://guns.lol/itzrxr)
