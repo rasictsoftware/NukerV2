@@ -2,7 +2,7 @@ Btw the zip is not a rat it is just a zip for a simple install process
 
 MASSIVE CREDITS to restorefn for source code
 
-Join his discord: https://discord.gg/YCkrtygxFr
+[Discord](https://discord.gg/YCkrtygxFr)
 
 
 
