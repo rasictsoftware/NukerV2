@@ -2,7 +2,7 @@ Btw the zip is not a rat it is just a zip for a simple install process
 
 
 
-https://easyupload.io/8rj2h9
+[download here](https://gofile.io/d/l698OI)
 
 
 Also to setup make sure you have node.js installed and discord.js  install node.js off this website or the offical website: https://nodejs.org/en/download
