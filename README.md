@@ -1,6 +1,6 @@
 Btw the zip is not a rat it is just a zip for a simple install process 
 
-MASSIVE CREDITS TO restorefn for source code
+MASSIVE CREDITS to restorefn for source code
 
 
 
