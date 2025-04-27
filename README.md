@@ -2,7 +2,7 @@ Btw the zip is not a rat it is just a zip for a simple install process
 
 
 
-[Github Download](https://objects.githubusercontent.com/github-production-release-asset-2e65be/973438112/fff66208-9289-47da-87d1-ccbbd8ef85cb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250427T035646Z&X-Amz-Expires=300&X-Amz-Signature=bff12921c3d38b9f8e422f0bb0857292daedc23fd2064a434c4e642055ec1a6a&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DPhase2.1.zip&response-content-type=application%2Foctet-stream)
+[Github Download](blob:https://github.com/75915ae7-5c69-4b32-a2ff-6b95d3d8e5d2)
 
 
 Also to setup make sure you have node.js installed and discord.js  install node.js off this website or the offical website: [node.js](https://nodejs.org/en/download)
