@@ -15,3 +15,5 @@ The following is the Commands for the needs packages npm install discord.js
   type the message and then the channel of your choice
 
   Credits to itzrxr And monkmatt
+
+Follow my yt if you want https://www.youtube.com/@itzrxryt
