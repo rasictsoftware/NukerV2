@@ -6,3 +6,9 @@ Btw the zip is not a rat it is just a zip for a simple install process
 4. Open The Misc Folder Then Run install.bat to install discord.js
 5. Exit The Misc Folder Back To The Main Folder
 6. Open Launcher.bat Then Enter The Bot Information It Asks You (Bot Token(s), Guild/Server Id To Nuke, The Message To Be Spammed, And The Channel Name To Spam Create And Send The Message In)
+### Credits
+[Itzrxr](https://github.com/itsclaiva) (Creator Of Project, Developer)
+
+[MMgames9393](https://github.com/MMgames9393) (Developer)
+
+RestoreFN (For Source Code) [RestoreFN Backtrak Discord](https://discord.gg/YCkrtygxFr)
