@@ -1,21 +1,14 @@
 Btw the zip is not a rat it is just a zip for a simple install process 
+### Instructions
+1. Download Node.js from https://nodejs.org/
+2. Download The Latest Release Of Phase Nuker From [The Releases Page In This Github](https://github.com/rasictsoftware/PhaseNuker/releases)
+3. Extract The .zip Then Open The Extracted Folder
+4. Open The Misc Folder Then Run install.bat to install discord.js
+5. Exit The Misc Folder Back To The Main Folder
+6. Open Launcher.bat Then Enter The Bot Information It Asks You (Bot Token(s), Guild/Server Id To Nuke, The Message To Be Spammed, And The Channel Name To Spam Create And Send The Message In)
+### Credits
+[Itzrxr](https://github.com/itsclaiva) (Creator Of Project, Developer)
 
-MASSIVE CREDITS to restorefn for source code
+[MMgames9393](https://github.com/MMgames9393) (Developer)
 
-[Discord Invite](https://discord.gg/YCkrtygxFr)
-
-
-
-[Github Download](blob:https://github.com/75915ae7-5c69-4b32-a2ff-6b95d3d8e5d2)
-
-
-Also to setup make sure you have node.js installed and discord.js  install node.js off this website or the offical website: [node.js](https://nodejs.org/en/download)
-
-The following is the Commands for the needs packages npm install discord.js
-
-
-  Then Run the launcher and when it says bot put the bot token you just made from discord.dev also Put the server id and
-
-  type the message and then the channel of your choice
-
-  Credits to itzrxr And monkmatt
+RestoreFN (For Source Code) [RestoreFN Backtrak Discord](https://discord.gg/YCkrtygxFr)
