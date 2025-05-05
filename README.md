@@ -1,3 +1,4 @@
+#### Website: https://phasenuker.pages.dev/
 Btw the zip is not a rat it is just a zip for a simple install process 
 ### Read Before Using PhaseNuker
 1. You Must Create A Bot That PhaseNuker Will Use To Nuke (All You Gotta Do Is Get The Bot Token To Put Inside PhaseNuker)
